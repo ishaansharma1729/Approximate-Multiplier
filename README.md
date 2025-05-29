@@ -18,7 +18,8 @@ As shown in the simulation results above, our MRE stands at 13.04%.
 
 The LUT usage has been brought down to 12.
 
-![image](https://github.com/user-attachments/assets/b2b3c6dd-7b71-460b-8a06-3d4777336c0f)
+![image](https://github.com/user-attachments/assets/d3cb7a42-b160-420c-a372-63c20da4f9a7)
+
 
 References:
 [1] https://ieeexplore.ieee.org/document/10073562
